@@ -16,7 +16,7 @@ export const Details = () => {
 
   useEffect(() => {
     getArticles();
-  }, []);
+  }, [getArticles]);
 
   return (
     <div className="h-screen">

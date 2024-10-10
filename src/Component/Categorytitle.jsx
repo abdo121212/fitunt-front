@@ -1,4 +1,3 @@
-import { logDOM } from "@testing-library/react";
 import axios from "axios";
 import { useFormik } from "formik";
 import React, { useState } from "react";
@@ -19,7 +18,7 @@ export const Categorytitle = () => {
 
 
 
-    const { errors, values, handleBlur, handleSubmit, setFieldValue } = useFormik(
+    const { values, handleBlur, handleSubmit, setFieldValue } = useFormik(
         {
             initialValues: {
                 activityLevel: "",

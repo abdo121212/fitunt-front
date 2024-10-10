@@ -37,10 +37,10 @@ export const Footer = () => {
             <div className="flex justify-start items-start flex-col space-y-6 w-1/4">
               <h1 className="text-3xl font-bold">Support</h1>
               <div className="flex flex-col justify-start items-start space-y-7 ">
-                <a href="#">Contant Us</a>
-                <a href="#">About</a>
-                <a href="#">Priavcy Police</a>
-                <a href="#">Trems Of Service</a>
+                <div >Contant Us</div>
+                <div >About</div>
+                <div >Priavcy Police</div>
+                <div >Trems Of Service</div>
               </div>
             </div>
             <div className="w-1/4">
@@ -48,20 +48,20 @@ export const Footer = () => {
               <div className="flex gap-5 pt-[16px] ">
                 <div className="w-1/2">
                   <div className="flex flex-col  space-y-4 ">
-                    <a href="#">Home</a>
-                    <a href="#">Calories</a>
-                    <a href="#">Profile</a>
-                    <a href="#">Category</a>
-                    <a href="#">Articles</a>
+                    <div >Home</div>
+                    <div >Calories</div>
+                    <div >Profile</div>
+                    <div >Category</div>
+                    <div >Articles</div>
                   </div>
                 </div>
                 <div className="w-1/2">
                   <div className="flex flex-col  space-y-4 ">
-                    <a href="#">Drinking water</a>
-                    <a href="#">Weight</a>
-                    <a href="#">Food Of Day</a>
-                    <a href="#">AI Fintun</a>
-                    <a href="#">Login / Register</a>
+                    <div >Drinking water</div>
+                    <div >Weight</div>
+                    <div >Food Of Day</div>
+                    <div >AI Fintun</div>
+                    <div >Login / Register</div>
                   </div>
                 </div>
               </div>
