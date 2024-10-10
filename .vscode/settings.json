@@ -1,0 +1,22 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Monokai",
+    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
+    "workbench.preferredLightColorTheme": "Default High Contrast",
+    "window.autoDetectColorScheme": false,
+    "notebook.defaultFormatter": "formulahendry.auto-close-tag",
+    "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "editor.defaultFormatter": null,
+    "editor.defaultFoldingRangeProvider": null,
+    "unofficial-material-icon-theme.hidesExplorerArrows": true,
+    "unofficial-material-icon-theme.folders.theme": "specific",
+    "unofficial-material-icon-theme.folders.color": "#9074ae",
+    "unofficial-material-icon-theme.folders.associations": {
+
+    },
+    "material-icon-theme.activeIconPack": "react",
+    "material-icon-theme.enableLogging": true,
+    "workbench.preferredHighContrastColorTheme": "Monokai",
+    "material-icon-theme.hidesExplorerArrows": true
+}
