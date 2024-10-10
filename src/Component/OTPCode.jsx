@@ -26,6 +26,8 @@ export const OTPCode = ({ setOtp }) => {
         setSucMess(false);
         navigate("/");
       }, 1000);
+    } else {
+      setErrMess("some thing want wrong")
     }
     setIsLoading(false);
   };
